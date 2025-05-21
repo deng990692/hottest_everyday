@@ -1,1 +1,1 @@
-This repository is used to store the related files of my AI daily report project.
+这个仓库用于存储我的AI日报项目相关文件。
