@@ -1,0 +1,1 @@
+This repository is used to store the related files of my AI daily report project.
